@@ -1,0 +1,1 @@
+<h5>Copyright &copy;<?php echo date('Y');?> Mahmoud Abusaqer</h5>
